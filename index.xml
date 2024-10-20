@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>STU B-API Materials \rightarrow Predmety.</description>
+    <pubDate>Sun, 20 Oct 2024 13:29:24 GMT</pubDate>
+  </item><item>
+    <title>Vzory derivácie</title>
+    <link>https://quartz.jzhao.xyz/B-MAT1I/Notes/3---Deriv%C3%A1cia-funkcie/Vzory-deriv%C3%A1cie</link>
+    <guid>https://quartz.jzhao.xyz/B-MAT1I/Notes/3---Deriv%C3%A1cia-funkcie/Vzory-deriv%C3%A1cie</guid>
+    <description>...</description>
+    <pubDate>Sun, 20 Oct 2024 12:54:20 GMT</pubDate>
+  </item><item>
+    <title>Nevlastná limita</title>
+    <link>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Nevlastn%C3%A1-limita</link>
+    <guid>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Nevlastn%C3%A1-limita</guid>
+    <description> Nevlastná limita Vo vete o výpočte sme predpokladali, že všetky limity sú vlastné. (Teda čísla) V nasledujúcej vete budeme riešiť situáciu, keď jedna z funkcií má limitu \infty alebo -\infty Veta o výpočte pre nevlastnú limitu Nech f:A\to R, g:A \to R Nech existuje \lim_{x \to x_0} f(x) = +\infty Potom ak funkcia je Ohraničená funkcia zdola, tak \lim_{x\to x_0} f(x) + g(x) = +\infty \qquad \implies \qquad +\infty + g(x) = +\infty ak funkcia je Ohraničená funkcia zdola kladnou konštantou, tak \lim_{x\to x_0} f(x) \times g(x) = +\infty \qquad \implies \qquad +\infty \times g(x) = +\infty limita funkcie \lim_{x\to x_0} {1 \over f(x)} = 0 Príklady \lim_{x \to \infty} x + \frac1x = \infty \lim_{x \to 0+} x + \frac1x = \infty \lim_{x \to \infty}x \times \arctan x = \infty \lim_{x \to \infty} {1 \over x^n} = 0 Príklad 1 \lim_{x \to \infty} {x^2 + 2x -1 \over x^3 - 3x^2 +5} = \lim_{x \to \infty} \frac1x \times \lim_{x \to \infty} {1 + {2 \over x} - {1 \over x^2}\over 1- {3 \over x^2} + {5 \over x^3}} = 0$$ # Príklad 2 $$\lim_{x \to \infty} {x^4 + 3x^2 - 2x +1 \over x^3 - 3x^2 +5} = $$ $$\lim_{x \to \infty} {x^4 (1 + {3 \over x^2} - {2 \over x^3} + {1 \over x^4} )\over x^3 (1- {3 \over x^2} + {5 \over x^3})} = \lim_{x \to \infty} x \times \lim_{x \to \infty} {1 + {3 \over x^2} - {2 \over x^3} + {1 \over x^4} \over 1- {3 \over x^2} + {5 \over x^3}} = \infty$$ # Príklad 3 $$\lim_{x \to \infty} {2x^4 + 3x^2 - 2x +1 \over 3x^4 - 3x^2 +5} = $$ $$\lim_{x \to \infty} {x^4 (2 + {3 \over x^2} - {2 \over x^3} + {1 \over x^4} )\over x^4 (3- {3 \over x^2} + {5 \over x^3})} = \lim_{x \to \infty} {2 + {3 \over x^2} - {2 \over x^3} + {1 \over x^4} \over 3- {3 \over x^2} + {5 \over x^3}} = \frac 23$$ pretože $\lim_{x \to \infty} {a \over x^n} = 0$ &gt; [!important] Veta &gt; &gt; Nech $f:A\to R$ &gt; Nech existuje limita &lt;font color=&quot;#00b050&quot;&gt;$$\lim_{x \to x_0} f(x) = 0$$&lt;/font&gt; a nech $f(x) &gt; 0$ na nejakom prstencovom okolí $O_\delta^\circ (x_0)$ &gt; Potom &gt; &lt;font color=&quot;#00b050&quot;&gt;$$\lim_{x\to x_0} {1 \over f(x)} = +\infty$$&lt;/font&gt; # Príklady $$\lim_{x\to 0} {1 \over x^{2n}} = \infty$$ $$\lim_{x\to 0+} {1 \over x^{n}} = \infty$$ $$\lim_{x\to 0-} {1 \over x^{n}} = \Biggl\{{-\infty\ \text{pre n nepárne} \over \infty\ \text{pre n párne}}$$.</description>
+    <pubDate>Sat, 19 Oct 2024 17:19:08 GMT</pubDate>
+  </item><item>
+    <title>Limita zloženej funkcie</title>
+    <link>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Limita-zlo%C5%BEenej-funkcie</link>
+    <guid>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Limita-zlo%C5%BEenej-funkcie</guid>
+    <description> Veta o limite zloženej funkcie Nech f:A\to B,g:B\to R. Nech existuje limita \lim_{x\to x_0} = y_0 existuje limita \lim_{x\to y_0} = L f(x) \ne y_0 na nejakom prstencovom okolí O_\delta^\circ (x_0) Potom \lim_{x\to x_0} g(f(x)) = \lim_{x \to y_0} g(y) = L \rightarrow Zložená funkcia Príklad 1 \lim_{x \to 1} \sqrt{x^2 + 2x - 3\over x^2 - 1} Počítame limitu zloženej funkcie \lim_{x\to1} \sqrt{f(x)} \qquad \rightarrow \qquad f(x) = {x^2 + 2x - 3\over x^2 - 1} Limita vnútornej zložke je \lim_{x\to1}{x^2 + 2x - 3\over x^2 - 1} = \lim_{x\to1}{(x-1)(x+3)\over (x-1)(x+1)} = \lim_{x\to1}{x+3\over x+1} = {1 + 3 \over 1+1} = 2 Limita celej funkcie \lim_{x\to1} \sqrt{f(x)} = \lim_{x\to1} \sqrt{2} = \sqrt{2} Nevlastná limita Vo vete o výpočte sme predpokladali, že všetky limity sú vlastné.</description>
+    <pubDate>Sat, 19 Oct 2024 16:59:41 GMT</pubDate>
+  </item><item>
+    <title>Vzory limity</title>
+    <link>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Vzory-limity</link>
+    <guid>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Vzory-limity</guid>
+    <description>...</description>
+    <pubDate>Sat, 19 Oct 2024 16:38:53 GMT</pubDate>
+  </item><item>
+    <title>Porovnávanie a limita</title>
+    <link>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Porovn%C3%A1vanie-a-limita</link>
+    <guid>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Porovn%C3%A1vanie-a-limita</guid>
+    <description>...</description>
+    <pubDate>Sat, 19 Oct 2024 15:12:05 GMT</pubDate>
+  </item><item>
+    <title>Rozšírený Euklidov algoritmus</title>
+    <link>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Roz%C5%A1%C3%ADren%C3%BD-Euklidov-algoritmus</link>
+    <guid>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Roz%C5%A1%C3%ADren%C3%BD-Euklidov-algoritmus</guid>
+    <description>\leftarrow Euklidov algoritmus Rozšírený Euklidov algoritmus Rozšírený Euklidov algoritmus je algoritmus, ktorým je možné nájsť najväčšieho spoločného deliteľa (NSD, Najväčší ...</description>
+    <pubDate>Wed, 09 Oct 2024 18:41:32 GMT</pubDate>
+  </item><item>
+    <title>Normované polynómy</title>
+    <link>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Normovan%C3%A9-polyn%C3%B3my</link>
+    <guid>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Normovan%C3%A9-polyn%C3%B3my</guid>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 16:03:29 GMT</pubDate>
+  </item><item>
+    <title>Najväčší spoločný deliteľ polynómy</title>
+    <link>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Najv%C3%A4%C4%8D%C5%A1%C3%AD-spolo%C4%8Dn%C3%BD-delite%C4%BE-polyn%C3%B3my</link>
+    <guid>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Najv%C3%A4%C4%8D%C5%A1%C3%AD-spolo%C4%8Dn%C3%BD-delite%C4%BE-polyn%C3%B3my</guid>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 15:34:57 GMT</pubDate>
+  </item><item>
+    <title>Cv. 4</title>
+    <link>https://quartz.jzhao.xyz/B-LSI/Cv.-4</link>
+    <guid>https://quartz.jzhao.xyz/B-LSI/Cv.-4</guid>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 07:02:22 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

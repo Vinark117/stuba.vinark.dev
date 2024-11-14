@@ -1,133 +1,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/B-AJ1/English-Language-1</loc>
-    <lastmod>2024-10-01T11:19:28.604Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Delenie-polyn%C3%B3my</loc>
-    <lastmod>2024-10-08T15:36:13.892Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.183Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Euklidov-algoritmus</loc>
-    <lastmod>2024-10-01T17:01:29.073Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.190Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Hornerova-sch%C3%A9ma</loc>
-    <lastmod>2024-10-01T17:09:32.616Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.197Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Met%C3%B3da-delenia-polyn%C3%B3mu-s-polyn%C3%B3mom</loc>
-    <lastmod>2024-10-08T19:24:15.716Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.205Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Najv%C3%A4%C4%8D%C5%A1%C3%AD-spolo%C4%8Dn%C3%BD-delite%C4%BE-polyn%C3%B3my</loc>
-    <lastmod>2024-10-09T15:34:57.266Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.213Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Najv%C3%A4%C4%8D%C5%A1%C3%AD-spolo%C4%8Dn%C3%BD-delite%C4%BE</loc>
-    <lastmod>2024-10-01T17:18:20.522Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.220Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Normovan%C3%A9-polyn%C3%B3my</loc>
-    <lastmod>2024-10-09T16:03:29.843Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.228Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Oper%C3%A1cie-s-polyn%C3%B3mami</loc>
-    <lastmod>2024-10-08T14:15:17.584Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.236Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Polyn%C3%B3my</loc>
-    <lastmod>2024-10-01T17:08:48.034Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.244Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/1---Polyn%C3%B3my/Roz%C5%A1%C3%ADren%C3%BD-Euklidov-algoritmus</loc>
-    <lastmod>2024-10-09T18:41:32.808Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.251Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LA1/Line%C3%A1rna-Algebra-1</loc>
-    <lastmod>2024-10-01T12:06:22.176Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.175Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-LSI/1---%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy/Bin%C3%A1rna-%C4%8D%C3%ADseln%C3%A1-s%C3%BAstava</loc>
+    <lastmod>2024-11-09T08:27:06.366Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-LSI/1---%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy/Dekadick%C3%A1-%C4%8D%C3%ADseln%C3%A1-s%C3%BAstava</loc>
+    <lastmod>2024-11-09T08:27:06.373Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-LSI/1---%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy/Hexadecim%C3%A1lna-%C4%8D%C3%ADseln%C3%A1-s%C3%BAstava</loc>
+    <lastmod>2024-11-09T08:27:06.381Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-LSI/1---%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy/Prevod-medzi-%C4%8D%C3%ADseln%C3%BDmi-s%C3%BAstavami</loc>
+    <lastmod>2024-11-09T08:27:06.388Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-LSI/1---%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy/%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy</loc>
+    <lastmod>2024-11-09T08:27:06.395Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-LSI/2---Boolovsk%C3%A1-algebra/Booleovsk%C3%A1-algebra</loc>
+    <lastmod>2024-11-09T08:27:06.457Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-LSI/2---Boolovsk%C3%A1-algebra/Z%C3%A1kony-booleovskej-algebry</loc>
+    <lastmod>2024-11-09T08:27:06.465Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LSI/Cv.-4</loc>
-    <lastmod>2024-10-09T07:02:22.605Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.348Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-LSI/Logic%C3%A9-Syst%C3%A9my</loc>
-    <lastmod>2024-10-01T11:20:23.964Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.358Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/B-LSI/Notes/1---%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy/Bin%C3%A1rna-%C4%8D%C3%ADseln%C3%A1-s%C3%BAstava</loc>
-    <lastmod>2024-10-01T17:45:41.418Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/Bijekt%C3%ADvna-funkcia</loc>
+    <lastmod>2024-11-09T08:27:06.500Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/B-LSI/Notes/1---%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy/Dekadick%C3%A1-%C4%8D%C3%ADseln%C3%A1-s%C3%BAstava</loc>
-    <lastmod>2024-10-01T17:55:43.128Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/Defini%C4%8Dn%C3%BD-obor</loc>
+    <lastmod>2024-11-09T08:27:06.507Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/B-LSI/Notes/1---%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy/Hexadecim%C3%A1lna-%C4%8D%C3%ADseln%C3%A1-s%C3%BAstava</loc>
-    <lastmod>2024-10-01T17:45:41.418Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/Injekt%C3%ADvna-funkcia</loc>
+    <lastmod>2024-11-09T08:27:06.515Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/B-LSI/Notes/1---%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy/Prevod-medzi-%C4%8D%C3%ADseln%C3%BDmi-s%C3%BAstavami</loc>
-    <lastmod>2024-10-01T17:39:05.240Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/Inverzn%C3%A1-funkcia</loc>
+    <lastmod>2024-11-09T08:27:06.522Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/B-LSI/Notes/1---%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy/%C4%8C%C3%ADseln%C3%A9-s%C3%BAstavy</loc>
-    <lastmod>2024-10-01T17:24:12.534Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/Matematick%C3%A9-funkcie</loc>
+    <lastmod>2024-11-09T08:27:06.530Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/B-LSI/Notes/2---Boolovsk%C3%A1-algebra/Booleovsk%C3%A1-algebra</loc>
-    <lastmod>2024-10-01T17:22:57.913Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/Ohrani%C4%8Den%C3%A1-funkcia</loc>
+    <lastmod>2024-11-09T08:27:06.537Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/B-LSI/Notes/2---Boolovsk%C3%A1-algebra/Z%C3%A1kony-booleovskej-algebry</loc>
-    <lastmod>2024-10-01T17:22:10.609Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/P%C3%A1rna-a-nep%C3%A1rna-funkcie</loc>
+    <lastmod>2024-11-09T08:27:06.544Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/Spojitos%C5%A5-funkcie</loc>
+    <lastmod>2024-11-09T08:27:06.551Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/Surjekt%C3%ADvna-funkcia</loc>
+    <lastmod>2024-11-09T08:27:06.559Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/Trigonometrick%C3%A9-funkcie</loc>
+    <lastmod>2024-11-09T08:27:06.565Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/1---Funkcie/Zlo%C5%BEen%C3%A1-funkcia</loc>
+    <lastmod>2024-11-09T08:27:06.573Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/2---Limita-funkcie/Jednostrann%C3%A9-limity</loc>
+    <lastmod>2024-11-09T08:27:06.880Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/2---Limita-funkcie/Limita-funkcie</loc>
+    <lastmod>2024-11-09T08:27:06.889Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/2---Limita-funkcie/Limita-zlo%C5%BEenej-funkcie</loc>
+    <lastmod>2024-11-09T08:27:06.897Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/2---Limita-funkcie/Nevlastn%C3%A1-limita</loc>
+    <lastmod>2024-11-09T08:27:06.905Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/2---Limita-funkcie/Porovn%C3%A1vanie-a-limita</loc>
+    <lastmod>2024-11-09T08:27:06.912Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/2---Limita-funkcie/Vzory-limity</loc>
+    <lastmod>2024-11-09T08:27:06.919Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/2---Limita-funkcie/V%C3%BDpo%C4%8Det-limity</loc>
+    <lastmod>2024-11-09T08:27:06.927Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/B-MAT1I/3---Deriv%C3%A1cia-funkcie/Vzory-deriv%C3%A1cie</loc>
+    <lastmod>2024-11-09T08:27:07.026Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-MAT1I/Matematika-1</loc>
-    <lastmod>2024-10-01T12:07:19.164Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/Bijekt%C3%ADvna-funkcia</loc>
-    <lastmod>2024-10-06T12:57:37.550Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/Defini%C4%8Dn%C3%BD-obor</loc>
-    <lastmod>2024-10-06T13:51:10.182Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/Injekt%C3%ADvna-funkcia</loc>
-    <lastmod>2024-10-06T12:56:22.872Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/Inverzn%C3%A1-funkcia</loc>
-    <lastmod>2024-10-06T15:01:48.883Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/Matematick%C3%A9-funkcie</loc>
-    <lastmod>2024-10-06T12:58:43.220Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/Ohrani%C4%8Den%C3%A1-funkcia</loc>
-    <lastmod>2024-10-06T20:05:51.438Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/P%C3%A1rna-a-nep%C3%A1rna-funkcie</loc>
-    <lastmod>2024-10-06T15:03:49.929Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/Spojitos%C5%A5-funkcie</loc>
-    <lastmod>2024-10-07T12:36:29.138Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/Surjekt%C3%ADvna-funkcia</loc>
-    <lastmod>2024-10-06T12:53:12.585Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/Trigonometrick%C3%A9-funkcie</loc>
-    <lastmod>2024-10-07T11:53:27.128Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/1---Funkcie/Zlo%C5%BEen%C3%A1-funkcia</loc>
-    <lastmod>2024-10-06T15:01:48.883Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Jednostrann%C3%A9-limity</loc>
-    <lastmod>2024-10-07T19:48:43.125Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Limita-funkcie</loc>
-    <lastmod>2024-10-07T12:36:29.138Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Limita-zlo%C5%BEenej-funkcie</loc>
-    <lastmod>2024-10-19T16:59:41.033Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Nevlastn%C3%A1-limita</loc>
-    <lastmod>2024-10-19T17:19:08.233Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Porovn%C3%A1vanie-a-limita</loc>
-    <lastmod>2024-10-19T15:12:05.097Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/Vzory-limity</loc>
-    <lastmod>2024-10-19T16:38:53.057Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/2---Limita-funkcie/V%C3%BDpo%C4%8Det-limity</loc>
-    <lastmod>2024-10-07T19:29:36.459Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/B-MAT1I/Notes/3---Deriv%C3%A1cia-funkcie/Vzory-deriv%C3%A1cie</loc>
-    <lastmod>2024-10-20T12:54:20.481Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.492Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/B-PROG1/Programovanie-1</loc>
-    <lastmod>2024-10-01T11:07:32.048Z</lastmod>
+    <lastmod>2024-11-09T08:27:07.052Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Predmety</loc>
-    <lastmod>2024-10-01T11:11:09.820Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.109Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2024-10-20T13:29:24.175Z</lastmod>
+    <lastmod>2024-11-09T08:27:06.100Z</lastmod>
   </url></urlset>
